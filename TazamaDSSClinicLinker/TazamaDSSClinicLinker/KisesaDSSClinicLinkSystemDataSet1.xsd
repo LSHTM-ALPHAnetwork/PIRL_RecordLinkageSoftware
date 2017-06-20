@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="KisesaDSSClinicLinkSystemDataSet1" targetNamespace="http://tempuri.org/KisesaDSSClinicLinkSystemDataSet1.xsd" xmlns:mstns="http://tempuri.org/KisesaDSSClinicLinkSystemDataSet1.xsd" xmlns="http://tempuri.org/KisesaDSSClinicLinkSystemDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="KisesaDSSClinicLinkSystemConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="KisesaDSSClinicLinkSystemConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TazamaDSSClinicLinker.Properties.Settings.GlobalReference.Default.KisesaDSSClinicLinkSystemConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="v_VillagesTableAdapter" GeneratorDataComponentClassName="v_VillagesTableAdapter" Name="v_Villages" UserDataComponentName="v_VillagesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="KisesaDSSClinicLinkSystemConnectionString (Settings)" DbObjectName="KisesaDSSClinicLinkSystem.dbo.v_Villages" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT VillageName FROM dbo.v_Villages</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="VillageName" DataSetColumn="VillageName" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="KisesaDSSClinicLinkSystemDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="KisesaDSSClinicLinkSystemDataSet1" msprop:Generator_UserDSName="KisesaDSSClinicLinkSystemDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="v_Villages" msprop:Generator_TableClassName="v_VillagesDataTable" msprop:Generator_TableVarName="tablev_Villages" msprop:Generator_TablePropName="v_Villages" msprop:Generator_RowDeletingName="v_VillagesRowDeleting" msprop:Generator_RowChangingName="v_VillagesRowChanging" msprop:Generator_RowEvHandlerName="v_VillagesRowChangeEventHandler" msprop:Generator_RowDeletedName="v_VillagesRowDeleted" msprop:Generator_UserTableName="v_Villages" msprop:Generator_RowChangedName="v_VillagesRowChanged" msprop:Generator_RowEvArgName="v_VillagesRowChangeEvent" msprop:Generator_RowClassName="v_VillagesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="VillageName" msprop:Generator_ColumnVarNameInTable="columnVillageName" msprop:Generator_ColumnPropNameInRow="VillageName" msprop:Generator_ColumnPropNameInTable="VillageNameColumn" msprop:Generator_UserColumnName="VillageName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

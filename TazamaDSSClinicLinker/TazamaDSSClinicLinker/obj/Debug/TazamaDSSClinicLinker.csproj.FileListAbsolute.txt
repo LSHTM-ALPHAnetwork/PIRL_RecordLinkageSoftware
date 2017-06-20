@@ -1,0 +1,118 @@
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\TazamaDSSClinicLinker\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\now\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\now\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\user\Documents\ClinicLinkSystem Mwanza\KisesaSystemFriday20140912\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\BPMFRX1\Documents\ClinicLinkSystem MwanzaV2\KisesaSystemFriday20140912 from Cho\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\lsh1300968\OneDrive\LSHTM\ALPHA\Kisesa\Raw Kisesa Data\KisesaClinicRecordLinkerSystem final\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\lsh1300968\OneDrive\LSHTM\ALPHA\Kisesa\Raw Kisesa Data\KisesaClinicRecordLinkerSystem final\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\pkokliaguine\Desktop\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\pkokliaguine\Desktop\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+D:\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade_20150901\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+C:\Users\Christopher\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.pdb
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmDBConnection.resources
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.fmMain.resources
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.Properties.Resources.resources
+D:\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.csproj.GenerateResource.Cache
+C:\Users\lsh1300968\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\lsh1300968\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\lsh1300968\Dropbox\Dropbox\Jason and Chris_superawesomeedits\TazamaDSSClinicLinkerUpgrade\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - Cho\TazamaDSSClinicLinker\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - Cho\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - Cho\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - GitHub\TazamaDSSClinicLinker\TazamaDSSClinicLinker\bin\Debug\TazamaDSSClinicLinker.exe.config
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - GitHub\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.exe
+C:\Users\lsh1300968\Dropbox\Shared Folders\Kisesa Software - GitHub\TazamaDSSClinicLinker\TazamaDSSClinicLinker\obj\Debug\TazamaDSSClinicLinker.pdb
