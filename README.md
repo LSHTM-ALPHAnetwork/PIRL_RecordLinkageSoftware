@@ -2,7 +2,7 @@
 Real-time record linkage software created and used by the ALPHA Network managed by LSHTM (http://alpha.lshtm.ac.uk/) 
 
 # How to get started
-Download the Kisesa Record Linkage_User Guide_vGitHuv.docx file. There are install and setup instructions in the annex of this file. 
+Download the Kisesa Record Linkage_User Guide_vGitHub.docx file. There are install and setup instructions in the annex of this file. 
 
 # Fake data and example searches
 There are fake data saved as "fake100" in three different formats for your convenience. If you would like to test the software using these fake data, you will find an excel workbook called ExampleSearches.xlsx that gives you an idea of how the software operates.
