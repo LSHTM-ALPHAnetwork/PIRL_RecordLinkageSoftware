@@ -1,5 +1,5 @@
 # The software
-This Point-of-contact Interactive Record Linkage (PIRL) software was created by the ALPHA Network managed by LSHTM (http://alpha.lshtm.ac.uk/) 
+This Point-of-contact Interactive Record Linkage (PIRL) software was created by the ALPHA Network managed by the London School of Hygiene & Tropical Medicine (LSHTM) (http://alpha.lshtm.ac.uk/) 
 
 # How to get started
 Download the PIRL_User Guide_vGitHub.docx file. There are install and setup instructions in the annex of this file. 
