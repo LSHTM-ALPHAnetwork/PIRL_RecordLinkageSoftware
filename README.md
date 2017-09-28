@@ -1,8 +1,8 @@
-# RealTimeRecordLinkage
-Real-time record linkage software created and used by the ALPHA Network managed by LSHTM (http://alpha.lshtm.ac.uk/) 
+# The software
+This Point-of-contact Interactive Record Linkage (PIRL) software was created by the ALPHA Network managed by LSHTM (http://alpha.lshtm.ac.uk/) 
 
 # How to get started
-Download the Kisesa Record Linkage_User Guide_vGitHub.docx file. There are install and setup instructions in the annex of this file. 
+Download the PIRL_User Guide_vGitHub.docx file. There are install and setup instructions in the annex of this file. 
 
 # Fake data and example searches
 There are fake data saved as "fake100" in three different formats for your convenience. If you would like to test the software using these fake data, you will find an excel workbook called ExampleSearches.xlsx that gives you an idea of how the software operates.
@@ -12,4 +12,4 @@ There are several SQL scripts. The SQL files that begin with S# (e.g, SO, S1, S2
 
 
 # Any questions?
-Send email to Christopher.Rentsch@lshtm.ac.uk
+Send email to Cho @ Chodziwadziwa.Kabudula@wits.ac.za or Christopher @ Christopher.Rentsch@lshtm.ac.uk
